@@ -24,10 +24,10 @@ _The PDF for this article above. After reading the article, download this file a
   Delets an entire line.
 
 ## Insert Line
-  ctrl + shift + enter (⌘ + shift + enter) - Line above
+  ctrl + shift + enter (⌘ + shift + enter) - Line above <br />
   ctrl + enter (⌘ + enter) - Line below
 ## Move Line
-  alt + arrow up - Move line above
+  alt + arrow up - Move line above <br />
   alt + arrow down - Move line below
 
 ## Comments
@@ -52,22 +52,22 @@ _The PDF for this article above. After reading the article, download this file a
 
 # Custom Keybidings
 ## Line Navigation
-  ctrl + alt + arrow right - Jumps to end of line
-  ctrl + alt + arrow left - Jumps to start of line
+  ctrl + alt + arrow right - Jumps to end of line <br />
+  ctrl + alt + arrow left - Jumps to start of line 
 
 ## Line Navigation with Selection
-  ctrl + alt + shift + arrow right - Selects from cursor to end of line
+  ctrl + alt + shift + arrow right - Selects from cursor to end of line <br />
   ctrl + alt + shift + arrow left - Selects from cursor to start of line
 
 ## Blocks Navigation (needs Space Block Jumper extension)
-  ctrl + [ - Move a block up
+  ctrl + [ - Move a block up <br />
   ctrl + ] - Move a block down
 
 ## Blocks Navigation with Selection (needs Space Block Jumper extension)
-  ctrl + shift + [ - Selects a block up
+  ctrl + shift + [ - Selects a block up <br />
   ctrl + shift + ] - Selects a block down
 
 ## Jump to a word (needs Jumpy extension)
-  ctrl + j - Enter Jumpy word mode
+  ctrl + j - Enter Jumpy word mode <br />
   ctrl + shift + j - Exit Jumpy word mode
   
