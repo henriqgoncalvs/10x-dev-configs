@@ -25,6 +25,15 @@
     <!-- If you like my configurations, you can find them in
       https://gist.github.com/henriiqueg/3695245d00fcbf9981b83c86525035f9
      -->
-  
+
   - VIM
     https://vim.rtorr.com
+
+  - ASDF - Version Manager
+    https://github.com/asdf-vm/asdf
+
+# Plugins for ZSH
+  - FZF
+  - Git
+  - SSH-Agent
+  - BGNotify
