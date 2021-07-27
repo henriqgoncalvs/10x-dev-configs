@@ -26,6 +26,7 @@ _The PDF for this article above. After reading the article, download this file a
 ## Insert Line
   ctrl + shift + enter (⌘ + shift + enter) - Line above <br />
   ctrl + enter (⌘ + enter) - Line below
+  
 ## Move Line
   alt + arrow up - Move line above <br />
   alt + arrow down - Move line below
@@ -50,7 +51,7 @@ _The PDF for this article above. After reading the article, download this file a
 
 
 
-# Custom Keybidings
+# Custom Keybindings
 ## Line Navigation
   ctrl + alt + arrow right - Jumps to end of line <br />
   ctrl + alt + arrow left - Jumps to start of line 
@@ -67,7 +68,7 @@ _The PDF for this article above. After reading the article, download this file a
   ctrl + shift + [ - Selects a block up <br />
   ctrl + shift + ] - Selects a block down
 
-## Jump to a word (needs Jumpy extension)
+## Jump to a word (needs Jump extension)
   ctrl + j - Enter Jumpy word mode <br />
   ctrl + shift + j - Exit Jumpy word mode
   

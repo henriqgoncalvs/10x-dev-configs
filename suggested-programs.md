@@ -26,7 +26,6 @@
     _If you like my configurations, you can find them in_
       https://gist.github.com/henriiqueg/3695245d00fcbf9981b83c86525035f9
     
-
   - VIM
     https://vim.rtorr.com
 

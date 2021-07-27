@@ -16,7 +16,13 @@
     "ms-vsliveshare.vsliveshare",
     "esbenp.prettier-vscode",
     "jmfirth.vsc-space-block-jumper",
+    "wenfangdu.jump",
     "rangav.vscode-thunder-client",
-    "jpoissonnier.vscode-styled-components"
+    "jpoissonnier.vscode-styled-components",
+    "shan.code-settings-sync",
+    "sleistner.vscode-fileutils",
+    "shardulm94.trailing-spaces",
+    "wallabyjs.quokka-vscode",
+    "ritwickdey.liveserver"
   ]
 }
