@@ -1,0 +1,13 @@
+# https://gist.github.com/kelvinst/331aff32508e2517afbd
+
+[user]
+        email = fulano@hotmail.com
+        name = Fulano
+
+[alias]
+        cm = commit -m
+        cb = checkout -b
+        co = checkout
+        cd = checkout develop
+        cmain = checkout main
+        cmaster = checkout master
