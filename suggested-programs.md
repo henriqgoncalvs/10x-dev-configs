@@ -22,9 +22,10 @@
 
   - PowerLevel10k - Awesome theme for ZSH
     https://github.com/romkatv/powerlevel10k
-    <!-- If you like my configurations, you can find them in
+    
+    _If you like my configurations, you can find them in_
       https://gist.github.com/henriiqueg/3695245d00fcbf9981b83c86525035f9
-     -->
+    
 
   - VIM
     https://vim.rtorr.com

@@ -1,8 +1,8 @@
 ## An article with a lot of shortcuts for VSCode
-<!-- https://blog.logrocket.com/learn-these-keyboard-shortcuts-to-become-a-vs-code-ninja/ -->
+[Learn these keyboard shortcuts to become a VS Code ninja](https://blog.logrocket.com/learn-these-keyboard-shortcuts-to-become-a-vs-code-ninja/)
 
 _The PDF for this article above. After reading the article, download this file and let it open when coding._
-<!-- https://blog.logrocket.com/wp-content/uploads/2019/08/vs-code-ninja-cheat-sheet-2.pdf -->
+[Download Keyboard Shortcuts Reference PDF](https://blog.logrocket.com/wp-content/uploads/2019/08/vs-code-ninja-cheat-sheet-2.pdf)
 
 
 # Some i use and didn't find on the article above
